@@ -1,0 +1,5 @@
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.Contract.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.Contract.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\obj\Debug\SVC.Crm.Contract.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\obj\Debug\SVC.Crm.Contract.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\obj\Debug\SVC.Crm.Contract.pdb

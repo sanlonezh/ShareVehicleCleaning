@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\bin\GMS.Account.DAL.dll
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\bin\GMS.Account.DAL.pdb
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.dll
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.pdb
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\bin\GMS.Account.DAL.dll
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\bin\GMS.Account.DAL.pdb
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.csprojResolveAssemblyReference.cache
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.dll
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Account.DAL\obj\Debug\GMS.Account.DAL.pdb

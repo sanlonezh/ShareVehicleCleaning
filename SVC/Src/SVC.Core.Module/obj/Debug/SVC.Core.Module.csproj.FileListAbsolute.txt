@@ -1,0 +1,5 @@
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Module.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Module.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\obj\Debug\SVC.Core.Module.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\obj\Debug\SVC.Core.Module.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\obj\Debug\SVC.Core.Module.pdb

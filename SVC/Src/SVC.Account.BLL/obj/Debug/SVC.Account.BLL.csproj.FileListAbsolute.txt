@@ -1,0 +1,5 @@
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Account.BLL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Account.BLL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.BLL\obj\Debug\SVC.Account.BLL.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.BLL\obj\Debug\SVC.Account.BLL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.BLL\obj\Debug\SVC.Account.BLL.pdb

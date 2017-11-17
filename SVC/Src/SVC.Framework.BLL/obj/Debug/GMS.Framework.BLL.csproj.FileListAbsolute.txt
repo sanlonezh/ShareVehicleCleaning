@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\bin\GMS.Framework.BLL.XML
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\bin\GMS.Framework.BLL.dll
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\bin\GMS.Framework.BLL.pdb
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
+C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\bin\GMS.Framework.BLL.XML
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\bin\GMS.Framework.BLL.dll
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\bin\GMS.Framework.BLL.pdb
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.dll
+E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Framework.BLL\obj\Debug\GMS.Framework.BLL.pdb
