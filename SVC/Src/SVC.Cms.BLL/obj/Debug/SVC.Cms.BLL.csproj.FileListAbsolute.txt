@@ -1,5 +1,5 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.BLL.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.BLL.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.BLL\obj\Debug\SVC.Cms.BLL.csprojResolveAssemblyReference.cache
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.BLL\obj\Debug\SVC.Cms.BLL.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.BLL\obj\Debug\SVC.Cms.BLL.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.BLL\obj\Debug\SVC.Cms.BLL.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.BLL.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.BLL.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.BLL\obj\Debug\SVC.Cms.BLL.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.BLL\obj\Debug\SVC.Cms.BLL.pdb

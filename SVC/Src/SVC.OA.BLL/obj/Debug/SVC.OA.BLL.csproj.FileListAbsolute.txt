@@ -1,5 +1,5 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.OA.BLL.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.OA.BLL.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.BLL\obj\Debug\SVC.OA.BLL.csprojResolveAssemblyReference.cache
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.BLL\obj\Debug\SVC.OA.BLL.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.BLL\obj\Debug\SVC.OA.BLL.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.BLL\obj\Debug\SVC.OA.BLL.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.OA.BLL.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.OA.BLL.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.BLL\obj\Debug\SVC.OA.BLL.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.BLL\obj\Debug\SVC.OA.BLL.pdb

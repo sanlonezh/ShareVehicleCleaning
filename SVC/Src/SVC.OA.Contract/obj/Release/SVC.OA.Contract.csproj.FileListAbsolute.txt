@@ -1,0 +1,11 @@
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\SVC.OA.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\SVC.OA.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\EntityFramework.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\SVC.Framework.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\SVC.Framework.Utility.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\Newtonsoft.Json.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\SVC.Framework.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\SVC.Framework.Utility.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\bin\Release\EntityFramework.xml
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\obj\Release\SVC.OA.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.Contract\obj\Release\SVC.OA.Contract.pdb

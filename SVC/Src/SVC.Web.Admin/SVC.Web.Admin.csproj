@@ -35,6 +35,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <FilesToIncludeForPublish>OnlyFilesToRunTheApp</FilesToIncludeForPublish>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -1494,6 +1495,7 @@
     </Content>
     <None Include="Content\Uploadify\uploadify.fla" />
     <Content Include="FileUpload.ashx" />
+    <None Include="Properties\PublishProfiles\svc.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SVC.Account.Contract\SVC.Account.Contract.csproj">

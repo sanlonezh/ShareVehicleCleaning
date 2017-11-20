@@ -1,5 +1,5 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Upload.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Upload.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Upload\obj\Debug\SVC.Core.Upload.csprojResolveAssemblyReference.cache
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Upload\obj\Debug\SVC.Core.Upload.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Upload\obj\Debug\SVC.Core.Upload.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Upload.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Upload.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Upload\obj\Debug\SVC.Core.Upload.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Upload\obj\Debug\SVC.Core.Upload.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Upload\obj\Debug\SVC.Core.Upload.pdb

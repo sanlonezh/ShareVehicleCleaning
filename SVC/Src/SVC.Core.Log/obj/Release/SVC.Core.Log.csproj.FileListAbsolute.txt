@@ -1,0 +1,17 @@
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Core.Log.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Core.Log.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\EntityFramework.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\log4net.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\Newtonsoft.Json.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Core.Config.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Framework.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Framework.DAL.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Framework.Utility.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Core.Config.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Framework.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Framework.DAL.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\EntityFramework.xml
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\bin\Release\SVC.Framework.Utility.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\obj\Release\SVC.Core.Log.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\obj\Release\SVC.Core.Log.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Log\obj\Release\SVC.Core.Log.pdb

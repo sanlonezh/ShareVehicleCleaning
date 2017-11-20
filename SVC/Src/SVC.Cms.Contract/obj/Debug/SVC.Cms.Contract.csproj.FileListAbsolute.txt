@@ -1,5 +1,5 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.Contract.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.Contract.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.Contract\obj\Debug\SVC.Cms.Contract.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.Contract\obj\Debug\SVC.Cms.Contract.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.Contract\obj\Debug\SVC.Cms.Contract.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Cms.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.Contract\obj\Debug\SVC.Cms.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.Contract\obj\Debug\SVC.Cms.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Cms.Contract\obj\Debug\SVC.Cms.Contract.csprojResolveAssemblyReference.cache

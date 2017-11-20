@@ -1,5 +1,5 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.DAL.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.DAL.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.DAL\obj\Debug\SVC.Crm.DAL.csprojResolveAssemblyReference.cache
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.DAL\obj\Debug\SVC.Crm.DAL.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.DAL\obj\Debug\SVC.Crm.DAL.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.DAL\obj\Debug\SVC.Crm.DAL.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.DAL.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.DAL.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.DAL\obj\Debug\SVC.Crm.DAL.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.DAL\obj\Debug\SVC.Crm.DAL.pdb

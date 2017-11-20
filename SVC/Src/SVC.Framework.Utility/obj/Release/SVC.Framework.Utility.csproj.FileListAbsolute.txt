@@ -1,0 +1,6 @@
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\bin\Release\SVC.Framework.Utility.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\bin\Release\SVC.Framework.Utility.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\bin\Release\Newtonsoft.Json.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\obj\Release\SVC.Framework.Utility.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\obj\Release\SVC.Framework.Utility.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\obj\Release\SVC.Framework.Utility.pdb

@@ -1,0 +1,12 @@
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\SVC.Crm.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\SVC.Crm.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\EntityFramework.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\SVC.Framework.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\SVC.Framework.Utility.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\Newtonsoft.Json.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\SVC.Framework.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\SVC.Framework.Utility.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\bin\Release\EntityFramework.xml
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\obj\Release\SVC.Crm.Contract.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\obj\Release\SVC.Crm.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.Contract\obj\Release\SVC.Crm.Contract.pdb

@@ -1,6 +1,6 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Contract.xml
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Contract.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Contract.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Contract\obj\Debug\SVC.Framework.Contract.csprojResolveAssemblyReference.cache
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Contract\obj\Debug\SVC.Framework.Contract.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Contract\obj\Debug\SVC.Framework.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Contract\obj\Debug\SVC.Framework.Contract.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Contract.xml
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Contract.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Contract\obj\Debug\SVC.Framework.Contract.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Contract\obj\Debug\SVC.Framework.Contract.pdb

@@ -1,0 +1,13 @@
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Core.Module.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Core.Module.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\DevTrends.MvcDonutCaching.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\Newtonsoft.Json.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Core.Cache.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Core.Config.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Framework.Utility.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Core.Cache.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Core.Config.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\bin\Release\SVC.Framework.Utility.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\obj\Release\SVC.Core.Module.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\obj\Release\SVC.Core.Module.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Module\obj\Release\SVC.Core.Module.pdb

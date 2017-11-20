@@ -1,9 +1,0 @@
-C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\bin\GMS.Crm.Contract.dll
-C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\bin\GMS.Crm.Contract.pdb
-C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
-C:\Users\Administrator\Desktop\4517_4038b03b-5d55-41a0-9a29-a2944c1d429a\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
-E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\bin\GMS.Crm.Contract.dll
-E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\bin\GMS.Crm.Contract.pdb
-E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
-E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
-E:\Sanlone\ShareVehicleCleaning\MvcBootstrap框架\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csprojResolveAssemblyReference.cache

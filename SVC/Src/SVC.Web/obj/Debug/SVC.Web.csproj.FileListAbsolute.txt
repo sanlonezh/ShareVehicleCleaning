@@ -1,5 +1,5 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Web.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Web.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Web\obj\Debug\SVC.Web.csprojResolveAssemblyReference.cache
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Web\obj\Debug\SVC.Web.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Web\obj\Debug\SVC.Web.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Web\obj\Debug\SVC.Web.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Web.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Web.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Web\obj\Debug\SVC.Web.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Web\obj\Debug\SVC.Web.pdb

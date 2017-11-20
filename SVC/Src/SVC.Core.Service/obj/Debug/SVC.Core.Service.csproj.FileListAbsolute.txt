@@ -1,5 +1,5 @@
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Service.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Service.pdb
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Service\obj\Debug\SVC.Core.Service.csprojResolveAssemblyReference.cache
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Service\obj\Debug\SVC.Core.Service.dll
-D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Service\obj\Debug\SVC.Core.Service.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Service\obj\Debug\SVC.Core.Service.csprojResolveAssemblyReference.cache
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Service.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Core.Service.pdb
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Service\obj\Debug\SVC.Core.Service.dll
+C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Service\obj\Debug\SVC.Core.Service.pdb
