@@ -3,3 +3,9 @@ C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.BLL.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.BLL.pdb
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.BLL\obj\Debug\SVC.Framework.BLL.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.BLL\obj\Debug\SVC.Framework.BLL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.BLL.xml
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.BLL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.BLL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.BLL\obj\Debug\SVC.Framework.BLL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.BLL\obj\Debug\SVC.Framework.BLL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.BLL\obj\Debug\SVC.Framework.BLL.csprojResolveAssemblyReference.cache

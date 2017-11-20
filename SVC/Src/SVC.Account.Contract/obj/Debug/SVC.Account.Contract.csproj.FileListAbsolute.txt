@@ -3,3 +3,8 @@ C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Account.Contract.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Account.Contract.pdb
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.Contract\obj\Debug\SVC.Account.Contract.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.Contract\obj\Debug\SVC.Account.Contract.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Account.Contract.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Account.Contract.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.Contract\obj\Debug\SVC.Account.Contract.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.Contract\obj\Debug\SVC.Account.Contract.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Account.Contract\obj\Debug\SVC.Account.Contract.pdb

@@ -7,3 +7,12 @@ C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\bin\Release\SVC.Framework
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\obj\Release\SVC.Core.Cache.csprojResolveAssemblyReference.cache
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\obj\Release\SVC.Core.Cache.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\obj\Release\SVC.Core.Cache.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\bin\Release\SVC.Core.Cache.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\bin\Release\SVC.Core.Cache.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\bin\Release\SVC.Core.Config.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\bin\Release\SVC.Framework.Utility.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\bin\Release\SVC.Core.Config.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\bin\Release\SVC.Framework.Utility.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\obj\Release\SVC.Core.Cache.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\obj\Release\SVC.Core.Cache.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Cache\obj\Release\SVC.Core.Cache.pdb

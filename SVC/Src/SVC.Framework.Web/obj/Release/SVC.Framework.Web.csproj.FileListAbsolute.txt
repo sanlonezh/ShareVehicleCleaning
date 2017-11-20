@@ -8,3 +8,13 @@ C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\SVC.Framew
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\obj\Release\SVC.Framework.Web.csprojResolveAssemblyReference.cache
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\obj\Release\SVC.Framework.Web.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\obj\Release\SVC.Framework.Web.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\SVC.Framework.Web.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\SVC.Framework.Web.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\Newtonsoft.Json.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\SVC.Framework.Contract.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\SVC.Framework.Utility.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\SVC.Framework.Contract.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\bin\Release\SVC.Framework.Utility.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\obj\Release\SVC.Framework.Web.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\obj\Release\SVC.Framework.Web.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Web\obj\Release\SVC.Framework.Web.pdb

@@ -6,3 +6,11 @@ C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\bin\Release\SVC.Framewor
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\obj\Release\SVC.Core.Config.csprojResolveAssemblyReference.cache
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\obj\Release\SVC.Core.Config.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\obj\Release\SVC.Core.Config.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\bin\Release\SVC.Core.Config.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\bin\Release\SVC.Core.Config.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\bin\Release\log4net.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\bin\Release\SVC.Framework.Utility.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\bin\Release\SVC.Framework.Utility.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\obj\Release\SVC.Core.Config.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\obj\Release\SVC.Core.Config.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Core.Config\obj\Release\SVC.Core.Config.pdb

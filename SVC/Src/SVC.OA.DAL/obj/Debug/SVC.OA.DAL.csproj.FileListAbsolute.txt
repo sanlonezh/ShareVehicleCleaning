@@ -3,3 +3,8 @@ C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.OA.DAL.pdb
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.DAL\obj\Debug\SVC.OA.DAL.csprojResolveAssemblyReference.cache
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.DAL\obj\Debug\SVC.OA.DAL.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.DAL\obj\Debug\SVC.OA.DAL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.OA.DAL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.OA.DAL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.DAL\obj\Debug\SVC.OA.DAL.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.DAL\obj\Debug\SVC.OA.DAL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.OA.DAL\obj\Debug\SVC.OA.DAL.pdb

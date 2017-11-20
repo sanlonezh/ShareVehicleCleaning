@@ -4,3 +4,9 @@ C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.DAL.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.DAL.pdb
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.DAL\obj\Debug\SVC.Framework.DAL.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.DAL\obj\Debug\SVC.Framework.DAL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.DAL.xml
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.DAL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.DAL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.DAL\obj\Debug\SVC.Framework.DAL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.DAL\obj\Debug\SVC.Framework.DAL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.DAL\obj\Debug\SVC.Framework.DAL.csprojResolveAssemblyReference.cache

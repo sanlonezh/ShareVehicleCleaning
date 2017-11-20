@@ -3,3 +3,8 @@ C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Utility.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Utility.pdb
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\obj\Debug\SVC.Framework.Utility.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\obj\Debug\SVC.Framework.Utility.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Utility.xml
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Utility.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Framework.Utility.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\obj\Debug\SVC.Framework.Utility.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Framework.Utility\obj\Debug\SVC.Framework.Utility.pdb

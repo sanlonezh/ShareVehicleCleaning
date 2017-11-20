@@ -3,3 +3,8 @@ C:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.BLL.pdb
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.BLL\obj\Debug\SVC.Crm.BLL.csprojResolveAssemblyReference.cache
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.BLL\obj\Debug\SVC.Crm.BLL.dll
 C:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.BLL\obj\Debug\SVC.Crm.BLL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.BLL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\bin\SVC.Crm.BLL.pdb
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.BLL\obj\Debug\SVC.Crm.BLL.csprojResolveAssemblyReference.cache
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.BLL\obj\Debug\SVC.Crm.BLL.dll
+D:\Sanlone\ShareVehicleCleaning\SVC\Src\SVC.Crm.BLL\obj\Debug\SVC.Crm.BLL.pdb
